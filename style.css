@@ -1,0 +1,37 @@
+css
+body{
+  font-family: arial,sans-serif;
+  background-color:#f4f4f4;
+} 
+.container {
+ background-color:white;
+ width:80%;
+margin:auto;
+padding:20px;
+text-align:center;
+border-radius:10px;
+}
+img{
+  border: radius 50%;
+  margin: 10% 0;
+}
+.title{
+  color:#555;
+  font-style: italic;
+}
+ul{
+  list-style-type: none;
+  padding: 0;
+}
+ul li{
+  background-color:#ddd;
+  margin:5px;
+  padding:8px;
+  border-radius:5px;
+
+}
+footer{
+  margin-top: 20px;
+  color: gray;
+  font-size:14px;
+}  
