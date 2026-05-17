@@ -19,10 +19,10 @@ img{
 }
 .title{
   color:#555;
-  font-style: italic;
+  font-style:italic;
 }
 ul{
-  list-style-type: none;
+  list-style-type:none;
   padding: 0;
 }
 ul li{
@@ -33,7 +33,7 @@ ul li{
 
 }
 footer{
-  margin-top: 20px;
-  color: gray;
+  margin-top:20px;
+  color:gray;
   font-size:14px;
 }  
